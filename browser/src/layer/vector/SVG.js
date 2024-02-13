@@ -107,7 +107,7 @@ L.SVG = L.Renderer.extend({
 
 		if (options.stroke) {
 			path.setAttribute('stroke', options.color);
-			path.setAttribute('stroke-opacity', options.opacity);
+			path.setAttribute('stroke-opacity', 1);
 			path.setAttribute('stroke-width', options.weight);
 			path.setAttribute('stroke-linecap', options.lineCap);
 			path.setAttribute('stroke-linejoin', options.lineJoin);

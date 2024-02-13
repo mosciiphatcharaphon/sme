@@ -32,7 +32,7 @@
 
 .document-logo {
 	position: relative;
-	width: 30px;
+	width: 50px;
 	height: 30px;
 }
 
@@ -303,29 +303,29 @@
 }
 
 .writer-icon-img {
-	background-image: url('images/x-office-document.svg');
-	background-size: 16px 16px;
+	background-image: url('images/sme.svg');
+	background-size: 50px 30px;
 	background-repeat: no-repeat;
 	background-position: center;
 }
 
 .calc-icon-img {
-	background-image: url('images/x-office-spreadsheet.svg');
-	background-size: 16px 16px;
+	background-image: url('images/sme.svg');
+	background-size: 50px 30px;
 	background-repeat: no-repeat;
 	background-position: center;
 }
 
 .impress-icon-img {
-	background-image: url('images/x-office-presentation.svg');
-	background-size: 16px 16px;
+	background-image: url('images/sme.svg');
+	background-size: 50px 30px;
 	background-repeat: no-repeat;
 	background-position: center;
 }
 
 .draw-icon-img {
-	background-image: url('images/x-office-drawing.svg');
-	background-size: 16px 16px;
+	background-image: url('images/sme.svg');
+	background-size: 50px 30px;
 	background-repeat: no-repeat;
 	background-position: center;
 }
